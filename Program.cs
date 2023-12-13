@@ -1,10 +1,10 @@
-﻿using System.Drawing;
+﻿using PolymorphismAbstract;
+using System.Drawing;
 
-namespace Lab7
+namespace PolymorphismAbstract
 {
     class Program
     {
-        // Main-method
         static void Main(string[] args)
         {
             // Five geometric objects of the base class 'Geometry' are created
